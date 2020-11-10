@@ -1,0 +1,14 @@
+.score{
+    display: none;
+}
+
+#user-progress,
+#cpu-progress{
+    height: 10px;
+    background-color: chartreuse;
+    width: 1%;
+    transition: width 0.3s;
+}
+#reset-btn{
+    display: none;
+}
